@@ -1,0 +1,28 @@
+section {
+  width: 1024px;
+  margin: 50px;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 14px;
+	color: #2A2A2A;
+}
+
+h2 {
+	font-family: sans-serif;
+	font-size: 12px;
+	color: #696969;
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 10px;
+	color: #2A2A2A;	
+}
+
+ul {
+  font-family: sans-serif;
+	font-size: 10px;
+	color: #2A2A2A;	
+}
